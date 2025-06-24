@@ -3,7 +3,7 @@
 ```javascript
 const poseydon = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Rust"],
+    code: ["Rust", "TypeScript", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "tech trends"],
     technologies: {
         frontEnd: {
@@ -13,7 +13,7 @@ const poseydon = {
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["FastAPI"],
-            rust: ["Actix"]
+            rust: ["Axum"]
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "redis"],
