@@ -20,7 +20,7 @@ const poseydon = {
         misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
     },
     architecture: {
-        frontEnd: ["SPA", "SSR"],
+        frontEnd: ["SPA", "SSR", "FSD"],
         backEnd: ["microservices", "monolithic", "serverless"],
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
