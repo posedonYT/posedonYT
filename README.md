@@ -1,9 +1,9 @@
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me  
 
 ```javascript
 const poseydon = {
     pronouns: "He" | "Him",
-    code: ["Rust", "TypeScript", "Javascript", "Python"],
+    code: ["Rust", "Go", "TypeScript", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "tech trends"],
     technologies: {
         frontEnd: {
@@ -13,7 +13,8 @@ const poseydon = {
         backEnd: {
             js: ["Node", "Express", "NestJS"],
             python: ["FastAPI"],
-            rust: ["Axum"]
+            rust: ["Axum"],
+            go: ["chi", "gin"]
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "redis"],
@@ -25,6 +26,6 @@ const poseydon = {
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Managing a cross-platform messenger development team.",
+    currentFocus: "CEO MyDay",
 };
 ```
