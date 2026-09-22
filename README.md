@@ -3,7 +3,7 @@
 ```javascript
 const poseydon = {
     pronouns: "He" | "Him",
-    code: ["Rust", "Go", "TypeScript", "Javascript", "Python"],
+    code: ["Go", "TypeScript", "Javascript", "Swift", "Python"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "tech trends"],
     technologies: {
         frontEnd: {
