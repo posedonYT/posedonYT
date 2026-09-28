@@ -11,10 +11,9 @@ const poseydon = {
             css: ["Sass", "Tailwind", "Bootstrap"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["FastAPI"],
-            rust: ["Axum"],
             go: ["chi", "gin"]
+            python: ["FastAPI"],
+            js: ["Node", "Express", "NestJS"],
         },
         devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
         databases: ["PostgreSQL", "MongoDB", "SQLite", "redis"],
@@ -26,6 +25,6 @@ const poseydon = {
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "CEO MyDay",
+    currentFocus: "Seeking opportunities!",
 };
 ```
